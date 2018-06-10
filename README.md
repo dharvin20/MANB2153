@@ -16,6 +16,7 @@ https://techcity.my/
 https://youtu.be/sJW5wANfH1I
 
 ## Googledrive Folder Link
+https://drive.google.com/open?id=14BD1XmrUbzlBhOFl6EBdEwNjN1yZo9yF
 - Term paper report
 - jupyter notebook
 - Pitch deck
